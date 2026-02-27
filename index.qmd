@@ -1,0 +1,25 @@
+---
+title: "Braulio Güémez"
+mainfont: Optima
+navbar: false
+about:
+  id: content
+  template: jolla
+  image: image.png
+  image-shape: round
+  links:
+    - icon: file-person
+      text: cv
+      href: cv/index.qmd
+    - icon: github
+      text: github
+      href: https://bguemez.github.io/
+---
+
+::: {#content style="text-align: center;"}
+I am a PhD candidate in the Sociology program at Duke University.
+
+I study ethni-racial classification and stratification in Mexico.
+
+*Keywords: Ethnoracial Classification, Stratification, Indigeneity, Skin Tone.*
+:::
