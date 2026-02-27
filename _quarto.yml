@@ -1,0 +1,37 @@
+
+
+project:
+  type: website
+  output-dir: _site
+  resources: 
+    - "*.pdf$"
+
+website:
+  title: "Braulio Güémez"
+  open-graph: true
+  twitter-card: true
+  navbar:
+    title: false
+    left:
+      - icon: house
+        text: about
+        href: https://https://bguemez.github.io/
+      - icon: file-person
+        text: cv
+        href: cv/index.qmd
+      - icon: github
+        text: github
+        href: https://github.com/bguemez
+
+
+format:
+  html:
+    theme: [cosmo, styles.scss]
+    fig-align: center
+    code-fold: show
+    grid:
+      sidebar-width: 100px
+      margin-width: 500px
+
+execute:
+  freeze: auto
