@@ -4,7 +4,7 @@ mainfont: Optima
 navbar: false
 about:
   id: content
-  template: jolla
+  template: litera
   image: image.png
   image-shape: round
   links:
@@ -13,7 +13,7 @@ about:
       href: cv/index.qmd
     - icon: github
       text: github
-      href: https://bguemez.github.io/
+      href: https://github.com/bguemez
 ---
 
 ::: {#content style="text-align: center;"}
