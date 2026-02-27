@@ -19,7 +19,8 @@ about:
 ::: {#content style="text-align: center;"}
 I am a PhD candidate in the Sociology program at Duke University.
 
-I study ethni-racial classification and stratification in Mexico.
+I study ethnoracial classification and stratification in Mexico.
 
 *Keywords: Ethnoracial Classification, Stratification, Indigeneity, Skin Tone.*
 :::
+
