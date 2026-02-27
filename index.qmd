@@ -4,7 +4,7 @@ mainfont: Optima
 navbar: false
 about:
   id: content
-  template: litera
+  template: jolla
   image: image.png
   image-shape: round
   links:
