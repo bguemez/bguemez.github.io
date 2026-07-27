@@ -20,9 +20,7 @@ about:
 ---
 
 ::: {#content style="text-align: center;"}
-I am a PhD candidate in the Sociology program at Duke University.
-
-I study ethnoracial classification and stratification in Mexico.
+I am a PhD candidate in Sociology at Duke University. My research examines ethnoracial classification and stratification in Mexico using quantitative and qualitative methods. Over the past five years, I have studied how people’s self-identification as Indigenous changes over time; how individuals identify in relation to their parents’ Indigenous status; how government agencies classify people as Indigenous in official statistics and how these data is used for different policies; and how people perceive others’ Indigenous status in the context of state policies. I have also researched skin-tone inequality, ethnoracial homogamy, racism, and discrimination in Mexico. 
 
 *Keywords: Ethnoracial Classification, Stratification, Indigeneity, Skin Tone.*
 :::
