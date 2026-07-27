@@ -15,13 +15,19 @@ website:
     left:
       - icon: house
         text: about
-        href: https://https://bguemez.github.io/
+        href: https://bguemez.github.io/
+
       - icon: file-person
         text: cv
         href: cv/index.qmd
+
       - icon: github
         text: github
         href: https://github.com/bguemez
+
+      - icon: mortarboard-fill
+        text: google scholar
+        href: "https://scholar.google.com/citations?user=rV4FWTQAAAAJ&hl=en"
 
 
 format:
