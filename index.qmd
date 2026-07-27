@@ -14,6 +14,9 @@ about:
     - icon: github
       text: github
       href: https://github.com/bguemez
+    - icon: mortarboard-fill
+      text: google scholar
+      href: "https://scholar.google.com/citations?user=rV4FWTQAAAAJ&hl=en"
 ---
 
 ::: {#content style="text-align: center;"}
