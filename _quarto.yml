@@ -4,7 +4,7 @@ project:
   type: website
   output-dir: docs
   resources: 
-    - "*.pdf$"
+    - cv_july2026.pdf
 
 website:
   title: "Braulio Güémez"
