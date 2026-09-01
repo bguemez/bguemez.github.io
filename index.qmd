@@ -10,7 +10,7 @@ about:
   links:
     - icon: file-person
       text: cv
-      href: cv_august2026.pdf
+      href: cv_sep_2026.pdf
     - icon: github
       text: github
       href: https://github.com/bguemez

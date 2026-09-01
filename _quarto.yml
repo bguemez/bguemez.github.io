@@ -4,7 +4,7 @@ project:
   type: website
   output-dir: docs
   resources: 
-    - cv_august2026.pdf
+    - cv_sep_2026.pdf
 
 website:
   title: "Braulio Güémez"
@@ -19,7 +19,7 @@ website:
 
       - icon: file-person
         text: cv
-        href: cv_august2026.pdf
+        href: cv_sep_2026.pdf
 
       - icon: github
         text: github
